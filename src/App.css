@@ -1,0 +1,38 @@
+.main-container{
+    width: 439px;
+    height: 385px;
+    margin: auto;
+    background: #7bd7e2;
+    border-radius: 5px;
+}
+h3{
+    position: relative;
+    left: 22%;
+    top: 22%;
+}
+p{
+    position: relative;
+    width: 162px;
+    height: 20px;
+    background: white;
+    top: 25%;
+    left: 22%;
+    padding: 10px;
+    border-radius: 5px;
+}
+ul{
+    list-style: none;
+    position: relative;
+    width: 162px;
+    height: auto;
+    background: white;
+    top: 83px;
+    left: 96px;
+    padding: 10px;
+    border-radius: 5px;
+}
+li{
+    height: 27px;
+    padding: 10px;
+    cursor: pointer;
+}
